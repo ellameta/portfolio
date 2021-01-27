@@ -1,5 +1,3 @@
 # Simplefolio ⚡️ 
 
-This is a portolio used to showcase some of my previous projects!
-
-
+This is my portfolio. Here you can see my resume as well as some of my previous work. 
